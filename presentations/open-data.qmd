@@ -1,0 +1,160 @@
+---
+title: "Adapting Open Data Practices at EPG"
+author: "Yash Dubey"
+format: 
+  revealjs:
+    theme: solarized
+    center: true
+    transition: fade
+---
+## ETH excels at Open Data
+![](eth_article.png)
+
+## Or does it? 
+![](eth_article_2.png)
+
+---
+
+## What is Open Research Data?
+| <span style="color:green">What it IS</span> | <span style="color:red">What it ISN'T</span> |
+|------------|----------------|
+| <span style="color:green">**F**indable, **A**ccessible, **I**nteroperable, **R**eusable</span> | <span style="color:red">Private, hidden, or siloed (e.g., stored only on EPG-Share)</span> |
+
+---
+
+## What is Open Research Data?
+| <span style="color:green">What it IS</span> | <span style="color:red">What it ISN'T</span> |
+|------------|----------------|
+| <span style="color:green">Has a **permanent identifier** (e.g., DOI)</span> | <span style="color:red">Lost or unreferenced datasets (e.g., only on OneDrive)</span> |
+
+---
+
+## What is Open Research Data?
+| <span style="color:green">What it IS</span> | <span style="color:red">What it ISN'T</span> |
+|------------|----------------|
+| <span style="color:green">Accessible to **anyone** and **everyone**</span> | <span style="color:red">Restricted to select users only (e.g., access-controlled dashboards)</span> |
+
+---
+
+## What is Open Research Data?
+| <span style="color:green">What it IS</span> | <span style="color:red">What it ISN'T</span> |
+|------------|----------------|
+| <span style="color:green">Can be **shared, reused, and distributed**</span> | <span style="color:red">Unlicensed or impractical to reuse</span> |
+
+---
+
+## What is Open Research Data?
+| <span style="color:green">What it IS</span> | <span style="color:red">What it ISN'T</span> |
+|------------|----------------|
+| <span style="color:green">Promotes a **spirit of sharing**</span> | <span style="color:red">Does **not** mean giving away your work or letting others claim credit</span> |
+
+::: {.notes}
+- A concern I hear often
+- Best practices can forestall this
+:::
+
+---
+
+## Why Should We Adopt Open Research Data?
+
+::: {.fragment}
+- Enhances research transparency, reproducibility and trust.
+  <small>OpenSciency, 2025</small>
+:::
+
+::: {.fragment}
+- Boosts citation rates and career visibility for early researchers.
+  <small>F1000, 2023</small>
+:::
+
+::: {.fragment}
+- Reduces duplication of efforts.
+  <small>F1000, 2023</small>
+:::
+
+::: {.notes}
+- Master thesis example of 15 techno-economic models.
+:::
+
+::: {.fragment}
+- Build upon open data without constraints.
+  <small>OpenSciency, 2025</small>
+:::
+
+::: {.notes}
+- More citations, more work done with open research than with closed
+:::
+
+::: {.fragment}
+- Increasingly a mandatory requirement from funding orgs. 
+  <small>SNSF, 2016</small>
+:::
+
+---
+
+## Why should we adopt Open Research Data?
+
+::: {.columns}
+
+::: {.column width="50%"}
+![](ord_trend.png){width=100% height=400px}
+:::
+
+::: {.column width="50%"}
+<div style="display: flex; align-items: center; justify-content: center; height: 400px;">
+**ORD adoption is rising worldwide**
+</div>
+:::
+:::
+
+---
+
+## Current ORD practices at EPG
+
+::: {.fragment}
+- Tools and Repositories? 
+:::
+
+::: {.fragment}
+- Documenting Changes and Version Control?
+:::
+
+::: {.fragment}
+- Metadata, access, and sharing?
+:::
+
+::: {.notes}
+- What tools do we use today to ensure our data remains open?
+- How do we version control our datasets and document changes we make?
+- Are data self-explanatory? Who can access it and how?
+:::
+
+## How can we develop ORD practices?
+
+
+::: {.fragment}
+- How do we integrate ORD into existing workflows?
+::: 
+
+::: {.fragment}
+- How do we create best practices and policies? 
+::: 
+
+::: {.fragment}
+- How do we train ourselves RAs, and thesis students to follow these practices? 
+::: 
+
+## Proposal
+
+::: {.fragment}
+- Create initial best practices document and discuss at the next team meeting.
+:::
+
+::: {.fragment}
+- We use this document and iterate to improve while beginning to make ORD a habit.
+:::
+
+::: {.notes}
+- It goes beyond human readable tables and Excel/CSVs and PDFs with supplementary data. 
+- Over time, this data could unlock future research for EPG and others
+:::
