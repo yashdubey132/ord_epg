@@ -102,9 +102,11 @@ format:
 
 ::: {.column width="50%"}
 <div style="display: flex; align-items: center; justify-content: center; height: 400px;">
-**ORD adoption is rising worldwide**
+**ORD adoption is rising worldwide** <small> State of Open Data, 2024 </small>
 </div>
 :::
+::: {.notes}
+- We should be at the forefront of this shift
 :::
 
 ---
